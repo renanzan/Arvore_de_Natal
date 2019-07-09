@@ -1,6 +1,8 @@
 # Árvore de Natal com Interface Gráfica em C
 Uma demonstração de forma simplificada das funções gráficas na linguagem C usando a biblioteca <windows.h> para desenhar uma árvore de natal com animação simples de cores.
 
+**Palavras chave:** C, windows.h, Interface Gráfica
+
 ![](preview/image1.png)
 
 ![](preview/image2.png)
